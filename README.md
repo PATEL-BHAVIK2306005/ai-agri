@@ -1,7 +1,4 @@
-Of course. A good README.md is essential for any project. Here is a comprehensive README file for your Plant Disease Detection System, formatted in Markdown.
-
-You can save this content directly into a file named README.md in your project's root directory.
-
+Jay swaminarayan To all of user
 Plant Disease Detection System with Dual AI Engine
 
 ![alt text](https://img.shields.io/badge/python-3.8+-blue.svg)
