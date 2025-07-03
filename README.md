@@ -52,8 +52,16 @@ Load existing models to resume work or perform analysis.
 Export models to the TensorFlow Lite (.tflite) format for mobile deployment.
 
 📸 Screenshots
+![image](https://github.com/user-attachments/assets/84510a4a-fbb0-43ac-8d72-933461a87557)
+![image](https://github.com/user-attachments/assets/394cb142-9c5d-4df5-9b6b-84b1f5d3ae94)
 
-(You can add your own screenshots here to showcase the application)
+![image](https://github.com/user-attachments/assets/51873322-02df-453f-b875-ba9cd166e8de)
+![image](https://github.com/user-attachments/assets/4035eddd-72bf-42f7-b6a7-a98e80863366)
+
+
+
+
+
 
 Detection Tab (Gemini Result)	Training Tab	Dataset Management Tab
 [Image of the detection tab with a detailed Gemini report]	[Image of the training tab showing plots and logs]	[Image of the dataset tab with download controls]
@@ -203,7 +211,6 @@ Click the Analyze Disease button.
 The results from your chosen engine will appear in the results panel.
 
 📁 Project Structure
-Generated code
 .
 ├── plant_disease_dataset/    # Directory for downloaded images (created automatically)
 │   ├── Apple___Apple_scab/
@@ -214,11 +221,7 @@ Generated code
 ├── main.py                   # The main Python script for the application
 ├── requirements.txt          # List of Python dependencies
 └── README.md                 # This file
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-IGNORE_WHEN_COPYING_END
+
 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
