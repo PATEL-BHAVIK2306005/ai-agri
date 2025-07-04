@@ -33,7 +33,7 @@ try:
 except (ImportError, OSError):
     kaggle = None
 
-# --- Constants ---
+
 IMG_SIZE = (224, 224)
 DEFAULT_MODEL_PATH = "plant_disease_model.h5"
 DATASET_DIR = Path("plant_disease_dataset")
